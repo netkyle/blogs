@@ -1,1 +1,1 @@
-### This blogs is use to summarise the sutdy of Azure.
+### This blogs is use to summarise the study of Azure.
