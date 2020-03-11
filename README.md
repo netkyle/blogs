@@ -1,1 +1,1 @@
-# blogs
+### This blogs is user to summarise the sutdy of Azure.
